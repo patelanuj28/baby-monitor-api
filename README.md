@@ -1,5 +1,7 @@
 # README
 
+Idea of this product is to create API support for streaming video & image from raspberry pi camera module v2. This API can be leveraged to mobile app or desktop app. 
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
